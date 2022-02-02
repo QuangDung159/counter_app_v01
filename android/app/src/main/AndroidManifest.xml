@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.counter_app_v01">
    <application
-        android:label="counter_app_v01"
+        android:label="Counter App v01"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
